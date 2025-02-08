@@ -33,8 +33,10 @@ Findings include:
   - Component interactions revealed architecture-specific patterns
   
   6. Scaling Behaviour
-  - Width scaling showed diminishing returns after certain model size
+  - Width scaling showed diminishing returns after certain model sizes
   - Depth scaling increased feature interactions and layer specialization
   - Gradient magnitude decreased with depth while pattern diversity increased
 
 These findings suggest optimal architectures should combine hierarchical structure for robustness with gating mechanisms for controlling spurious correlations.
+
+Please note this project was completed with the help of Claude.ai
